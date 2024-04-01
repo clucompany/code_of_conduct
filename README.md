@@ -29,6 +29,7 @@
 
 ## Contact
 
-1. [denisandroid](https://github.com/denisandroid)
-2. [denis2005991@gmail.com](mailto:denis2005991@gmail.com)
+1. Special cases can be discussed in the "issues" of the current repository.
+2. [denisandroid](https://github.com/denisandroid)
+3. [denis2005991@gmail.com](mailto:denis2005991@gmail.com)
    
