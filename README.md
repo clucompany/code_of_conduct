@@ -6,8 +6,8 @@
   (A set of rules and principles that define the expected ethics and standards of conduct for members of a particular organization, community, or professional field.)
   </br></br>
 <div id="badges">
-  <a href="https://github.com/denisandroid">
-    <img src="https://github.com/UlinProject/img/blob/main/short_32/clulab.png?raw=true" alt="uproject"/>
+  <a href="https://github.com/clucompany">
+    <img src="https://github.com/UlinProject/img/blob/main/short_32/clulab.png?raw=true" alt="clulab"/>
   </a>
 </div>
 </div>
@@ -31,4 +31,4 @@
 
 1. Special cases can be discussed in the "issues" of the current repository.
 2. [denisandroid](https://github.com/denisandroid) or [denis2005991@gmail.com](mailto:denis2005991@gmail.com)
-   
+
